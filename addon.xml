@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.fritzbox.calls" name="FRITZ!Box Anruf- und Nachrichtenliste" version="3.0.1" provider-name="Paulemann">
+    <requires>
+        <import addon="xbmc.json" version="6.32.4"/>
+        <import addon="script.module.pyxbmct" version="1.1.4"/>
+     </requires>
+    <extension point="xbmc.python.script" library="select.py">
+        <provides>executable</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>linux</platform>
+        <summary lang="en">Shows the current list of calls and TAM messages on your FRIT!Box.</summary>
+        <summary lang="de">Zeigt die aktuelle Anrufliste und AB-Nachrichten der FRITZ!Box an.</summary>
+        <description lang="en">This addon retrieves the list of calls and TAM messages from your FRITZ!Box via the TR-064 protocl. You need to provide a valid username and pwwssord. </description>
+        <description lang="de">Das Addon ruft die Anrufer- und Nachrichtenliste von der FRITZ!Box via TR-064 Protokoll ab. Ein gültiger Benutzername und Passwort werden benötigt.</description>
+        <disclaimer lang="en">Use at your own risk</disclaimer>
+        <disclaimer lang="de">Benutzung auf eigene Gefahr</disclaimer>
+        <assets>
+            <icon>icon.png</icon>
+        </assets>
+    </extension>
+</addon>

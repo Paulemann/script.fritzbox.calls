@@ -1,0 +1,146 @@
+# XBMC Media Center language file
+# Addon Name: Now Playing
+# Addon id: script.nowplaying
+# Addon version: x
+# Addon Provider: Paulemann
+msgid ""
+msgstr ""
+"Project-Id-Version: XBMC-Addons\n"
+"Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgctxt "#30000"
+msgid "General"
+msgstr "Allgemein"
+
+msgctxt "#30001"
+msgid "User name"
+msgstr "Benutzername"
+
+msgctxt "#30002"
+msgid "Password"
+msgstr "Passwort"
+
+msgctxt "#30003"
+msgid "Hostname or IP address"
+msgstr "Hostname oder IP-Adresse"
+
+msgctxt "#30004"
+msgid "Own number(s)"
+msgstr "Eigene Rufnummer(n)"
+
+msgctxt "#30050"
+msgid "FRITZ!Box List of Calls and Messages"
+msgstr "FRITZ!Box Anruf- und Nachrichtenliste"
+
+msgctxt "#30051"
+msgid "Selection"
+msgstr "Auswahl"
+
+msgctxt "#30052"
+msgid "Calls"
+msgstr "Anrufe"
+
+msgctxt "#30053"
+msgid "Mssgs."
+msgstr "Nachr."
+
+msgctxt "#30054"
+msgid "Date"
+msgstr "Datum"
+
+msgctxt "#30055"
+msgid "Name/Number"
+msgstr "Name/Rufnummer"
+
+msgctxt "#30056"
+msgid "Duration"
+msgstr "Dauer"
+
+msgctxt "#30057"
+msgid "Play"
+msgstr "Aspielen"
+
+msgctxt "#30058"
+msgid "Delete"
+msgstr "Löschen"
+
+msgctxt "#30059"
+msgid "Close"
+msgstr "Zurück"
+
+msgctxt "#30060"
+msgid "Call"
+msgstr "Anruf"
+
+msgctxt "#30061"
+msgid "Mssg."
+msgstr "Nachr."
+
+msgctxt "#30062"
+msgid "This will delete all calls. Continue?"
+msgstr "Hierdurch werden alle Anrufe gelöscht. Fortfahren?"
+
+msgctxt "#30063"
+msgid "This will delete the message. Continue?"
+msgstr "Hierdurch wird die Nachricht gelöscht. Fortfahren?"
+
+msgctxt "#30064"
+msgid "This will delete all messages. Continue?"
+msgstr "Hierdurch werden all Nachrichten gelöscht. Fortfahren?"
+
+msgctxt "#30065"
+msgid "Cancel"
+msgstr "Abbruch"
+
+msgctxt "#30066"
+msgid "OK"
+msgstr "OK"
+
+msgctxt "#30067"
+msgid "Proceed"
+msgstr "Weiter"
+
+msgctxt "#30068"
+msgid "Own number(s)"
+msgstr "Eigene Rufnummer(n)"
+
+msgctxt "#30069"
+msgid "active"
+msgstr "aktiv"
+
+msgctxt "#30070"
+msgid "No Calls"
+msgstr "Keine Anrufe"
+
+msgctxt "#30071"
+msgid "No Messages"
+msgstr "Keine Nachrichten"
+
+msgctxt "#30072"
+msgid "TAM is not active"
+msgstr "Anrufbeantworter ist nicht eingeschaltet"
+
+msgctxt "#30073"
+msgid "Anonymous"
+msgstr "unbekannt"
+
+msgctxt "#30074"
+msgid "hrs"
+msgstr "Std"
+
+msgctxt "#30075"
+msgid "min"
+msgstr "Min"
+
+msgctxt "#30076"
+msgid "No number(s) configured"
+msgstr "Keine Rufnummer(n) eingerichtet"
